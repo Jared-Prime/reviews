@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'activesupport'
-gem 'grape'
+gem 'grape', '>= 1.1.0'
 gem 'hiredis'
 gem 'httparty'
 gem 'readthis'
